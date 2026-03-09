@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mujahid (@falcon164)
-- 👀 I’m interested in Digital Learning Platforms and Content 
-- 🌱 I’m currently learning Mobile and Web App Development
-- 💞️ I’m looking to collaborate on anything related to developing Open Digital Learning Resources
+- 👀 I’m interested in Digital Learning Platforms and Content
+- AI enabled LMS running on open source models is my craze these days 
+- 💞️ I’m looking to collaborate on anything related to developing Open Digital Learning artifacts
 - 📫 How to reach me mujahiddbg@gmail.com
 
 <!---
